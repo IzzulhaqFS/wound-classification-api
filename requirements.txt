@@ -1,0 +1,5 @@
+Flask
+tensorflow==2.15.0
+ultralytics
+gunicorn
+python-dotenv
